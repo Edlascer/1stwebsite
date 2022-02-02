@@ -1,0 +1,40 @@
+body {
+    background-color:skyblue;
+}
+
+h1 {
+    display:block;
+    color:navy;
+    background-color:white;
+    text-align:center;
+    border-style:double;
+    font-family:sans-serif;
+    padding:5px 1px 5px 1px;
+    margin:25px;
+}
+
+img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+p {
+    text-align:center;
+    font-size:23px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+ul {
+    font-size:22px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h2 {
+    display:block;
+    text-align:center;
+    font-size:25px;
+    background-color:whitesmoke;
+    border-style:solid;
+    padding:10px 20px 20px 10px;
+}
